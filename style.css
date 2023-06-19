@@ -93,6 +93,22 @@
         justify-content: center;
     }
 
+
+    /* REG-WINDOW */
+    .reg-window-container {
+        border-top: 6px solid #353535;
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .reg-heading {
+        text-align: center;
+        font-family: 'Oswald', sans-serif;
+        margin-top: 50px;
+    }
+    
+
     /* RECOMENDATIONS-INSTRUCTORS */
 
     /* TEXT-IN-REC-INSTRUCTORS */
